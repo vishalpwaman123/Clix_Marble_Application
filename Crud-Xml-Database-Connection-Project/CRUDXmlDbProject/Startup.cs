@@ -6,6 +6,10 @@ using Microsoft.Extensions.Hosting;
 using System.Collections.Generic;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Clix_ProgramSetting.Services.Interface;
+using Clix_ProgramSetting.Services.Service;
+using Clix_ProgramSetting.Repositories.Interface;
+using Clix_ProgramSetting.Repositories.Service;
 
 namespace CRUDXmlDbProject
 {
@@ -22,6 +26,10 @@ namespace CRUDXmlDbProject
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddScoped<IProgramSettingSL, ProgramSettingSL>();
+            services.AddScoped<IProgramSettingServicesSL, ProgramSettingServicesSL>();
+            services.AddScoped<IProgramSettingRL, ProgramSettingRL>();
+            services.AddScoped<IProgramSettingServicesRL, ProgramSettingServicesRL>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo

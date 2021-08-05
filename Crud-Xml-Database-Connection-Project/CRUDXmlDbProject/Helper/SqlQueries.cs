@@ -13,7 +13,7 @@ namespace CRUDXmlDbProject.Helper
             .AddXmlFile("SqlQueries.xml", true, true)
             .Build();
 
-        public static string InsertEmployeeData { get { return queriesConfig["InsertEmployeeData"]; } }
+        public static string Login { get { return queriesConfig["Login"]; } }
 
     }
 }

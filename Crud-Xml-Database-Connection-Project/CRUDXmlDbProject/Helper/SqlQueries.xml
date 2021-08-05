@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Queries>
+	<![CDATA[ SELECT UserID, EmailID, MobileNo FROM `fact_user_master` WHERE UserName=@UserName AND SecurePassword=@Password; ]]>
+</Queries>

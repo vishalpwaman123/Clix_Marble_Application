@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "va9XRCaq0zkpKinKZjhJSrNU8UiumoeA3aFPJWK/nm4Y38Qh2NYp31x2F0237teso/LdT+HSkwoabEYVxHwnRA==",
+  "dgSpecHash": "2LqIhEkdJPrG9euMzx1fwPBE9d2hGpVmavRh3a6rDqNd0oXlRZn+Ul8xHFcCmXK0H93WQ8kWe5YwZUE+8+Lg/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vishal\\Documents\\React + C#\\Clix\\Clix_BackEnd\\Crud-Xml-Database-Connection-Project\\CRUDXmlDbProject\\Clix_ProgramSetting.csproj",
+  "projectFilePath": "C:\\Users\\Vishal\\Documents\\React + C#\\Clix_Marble_Application\\Crud-Xml-Database-Connection-Project\\CRUDXmlDbProject\\Clix_ProgramSetting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -39,6 +39,7 @@
     "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\Vishal\\.nuget\\packages\\mysqlconnector\\1.3.11\\mysqlconnector.1.3.11.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
     "C:\\Users\\Vishal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
