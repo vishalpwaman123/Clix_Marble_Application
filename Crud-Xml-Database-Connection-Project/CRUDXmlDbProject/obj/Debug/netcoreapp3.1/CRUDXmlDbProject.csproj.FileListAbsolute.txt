@@ -1,0 +1,102 @@
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.exe
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.deps.json
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.runtimeconfig.json
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.pdb
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csprojAssemblyReference.cache
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\staticwebassets\CRUDXmlDbProject.StaticWebAssets.Manifest.cache
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\staticwebassets\CRUDXmlDbProject.StaticWebAssets.xml
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUDXmlDbProject.styles.css
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.RazorTargetAssemblyInfo.cache
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.CopyComplete
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.dll
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.pdb
+C:\Users\Vishal\source\repos\CRUDXmlDbProject\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.genruntimeconfig.cache
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.exe
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.deps.json
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.runtimeconfig.json
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.runtimeconfig.dev.json
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.pdb
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.AssemblyReference.cache
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.AssemblyInfoInputs.cache
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.AssemblyInfo.cs
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\staticwebassets\CRUDXmlDbProject.StaticWebAssets.Manifest.cache
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\staticwebassets\CRUDXmlDbProject.StaticWebAssets.xml
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUDXmlDbProject.styles.css
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.RazorTargetAssemblyInfo.cache
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.CopyComplete
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.dll
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.pdb
+C:\Users\Vishal\Documents\Visual studio Backend\Example\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.genruntimeconfig.cache
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.exe
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.deps.json
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.runtimeconfig.json
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.runtimeconfig.dev.json
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\CRUDXmlDbProject.pdb
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.AssemblyReference.cache
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.AssemblyInfoInputs.cache
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.AssemblyInfo.cs
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\staticwebassets\CRUDXmlDbProject.StaticWebAssets.Manifest.cache
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\staticwebassets\CRUDXmlDbProject.StaticWebAssets.xml
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUDXmlDbProject.styles.css
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.RazorTargetAssemblyInfo.cache
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.csproj.CopyComplete
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.dll
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.pdb
+C:\Users\Vishal\Documents\React + C#\Clix\Clix_BackEnd\Crud-Xml-Database-Connection-Project\CRUDXmlDbProject\obj\Debug\netcoreapp3.1\CRUDXmlDbProject.genruntimeconfig.cache
